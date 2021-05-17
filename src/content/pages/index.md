@@ -1,9 +1,9 @@
 ---
 template: index-page
 slug: /
-title: Wyatt Morriss
-tagline: Graphic Designer
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+title: ICON PACKS
+tagline: For MIUI
+featuredImage: https://ziggymirror.vinayak703.workers.dev/0:/IMG_20210517_201801_826.jpg
 cta:
   ctaText: Know more
   ctaLink: /about
