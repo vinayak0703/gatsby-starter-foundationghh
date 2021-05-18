@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: ICON PACKS
 tagline: For MIUI
-featuredImage: /assets/img_20210518_114616_335.jpg
+featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
 cta:
   ctaText: Know more
   ctaLink: /about
